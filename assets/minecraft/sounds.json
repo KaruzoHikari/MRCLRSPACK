@@ -1,0 +1,4 @@
+{
+"startup": {"sounds": [{"name":"mrcl/windowsstartup","stream":false}]},
+"shutdown": {"sounds": [{"name":"mrcl/windowsshutdown","stream":false}]}
+}
