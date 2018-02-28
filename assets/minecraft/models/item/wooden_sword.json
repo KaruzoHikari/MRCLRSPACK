@@ -2,5 +2,17 @@
     "parent": "item/handheld",
     "textures": {
         "layer0": "items/wood_sword"
-    }
+},
+"display": {
+"thirdperson_righthand": {
+"rotation": [ 0, 90, 75 ],
+"translation": [ 0, 6, 7 ],
+"scale": [ 1.5, 1.5, 1.2 ]
+},
+"thirdperson_lefthand": {
+"rotation": [ 0, 90, 75 ],
+"translation": [ 0, 6, 7 ],
+"scale": [ 1.5, 1.5, 1.2 ]
+}
+}
 }
