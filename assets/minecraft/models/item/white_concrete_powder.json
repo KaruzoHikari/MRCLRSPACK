@@ -4962,5 +4962,45 @@
 			"type": "cube"
 		}
 	],
-	"display": {"head": {"scale": [2, 1.7, 1.8]}}
+"display": {
+    "thirdperson_righthand": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 0.3, 0.3, 0.3 ]
+    },
+    "thirdperson_lefthand": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 0.3, 0.3, 0.3 ]
+    },
+    "head": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 3, 3, 3 ]
+    },
+    "ground": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 0.3, 0.3, 0.3 ]
+    },
+    "fixed": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 0.3, 0.3, 0.3 ]
+    },
+    "firstperson_righthand": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 0.3, 0.3, 0.3 ]
+    },
+    "firstperson_lefthand": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 0.3, 0.3, 0.3 ]
+    },
+    "gui": {
+        "rotation": [ 18, -43, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 0.2, 0.2, 0.2 ]
+    }
 }
