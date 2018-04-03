@@ -1,0 +1,19 @@
+Elevator: =Ascensor: 
+
+Locked=Bloqueado
+Unlocked=Desbloqueado
+
+FACTORY=FÁBRICA
+Boys=Chicos
+Girls=Chicos
+
+is activated by=está activada por
+has been deactivated.=ha sido desactivada.
+No active towers detected.=No se detectaron torres activadas.
+is on cooldown. Please wait.=está recargándose. Por favor, espera.
+
+A tower is active. Return to the Past could not be launched.=Una torre está activada. Volver al Pasado no pudo ser ejecutado.
+Not enough energy. Return to the Past could not be launched.=No hay suficiente energía. Volver al Pasado no pudo ser ejecutado.
+Return to the Past was launched.=Volver al Pasado ha sido ejecutado.
+
+item.bow.name=Mano de Odd

@@ -1,0 +1,10 @@
+{
+"startup": {"sounds": [{"name":"mrcl/windowsstartup","stream":false}]},
+"shutdown": {"sounds": [{"name":"mrcl/windowsshutdown","stream":false}]},
+"devirt": {"sounds": [{"name":"mrcl/devirt","stream":false}]},
+"devirtscanner": {"sounds": [{"name":"mrcl/devirtscanner","stream":false}]},
+"virt": {"sounds": [{"name":"mrcl/virt","stream":false}]},
+"holomaploop": {"sounds": [{"name":"mrcl/holomaploop","stream":false}]},
+"scan": {"sounds": [{"name":"mrcl/scan","stream":false}]},
+"rttp": {"sounds": [{"name":"mrcl/rttp","stream":false}]}
+}
