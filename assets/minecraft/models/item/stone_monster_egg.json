@@ -3,8 +3,8 @@
 	"elements": [
 		{
 			"name": "cube",
-			"from": [-14.125, -15.875, -15.25],
-			"to": [28.125, 26, -14],
+			"from": [-16, -16, 7.375],
+			"to": [32, 32, 8.625],
 			"faces": {
 				"north": {
 					"uv": [0, 1.91953125, 15.959375, 10.71875],
@@ -44,7 +44,7 @@
 		}
 	],
 	"display": {
-		"head": {"scale": [3, 3, 3]},
+		"head": {"scale": [1.6, 1.6, 1.6]},
 		"thirdperson_righthand": {"scale": [0.3, 0.3, 0.3]},
 		"thirdperson_lefthand": {"scale": [0.3, 0.3, 0.3]},
 		"firstperson_righthand": {"scale": [0.3, 0.3, 0.3]},
@@ -55,39 +55,11 @@
 	},
 	"groups": [
 		{
-			"name": "Barras",
-			"isOpen": true,
-			"shade": true,
-			"display": {"visibility": true, "autouv": false},
-			"children": []
-		},
-		{
 			"name": "Elevator",
 			"isOpen": true,
 			"shade": true,
 			"display": {"visibility": true, "autouv": false},
 			"children": [0]
-		},
-		{
-			"name": "hexadecagon",
-			"isOpen": true,
-			"shade": true,
-			"display": {"visibility": true, "autouv": false},
-			"children": []
-		},
-		{
-			"name": "hexadecagon",
-			"isOpen": true,
-			"shade": true,
-			"display": {"visibility": true, "autouv": false},
-			"children": []
-		},
-		{
-			"name": "hexadecagon",
-			"isOpen": true,
-			"shade": true,
-			"display": {"visibility": true, "autouv": false},
-			"children": []
 		}
 	]
 }
