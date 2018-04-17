@@ -118146,8 +118146,8 @@
 	],
 	"display": {
 		"head": {
-			"scale": [2, 2.5, 2],
-			"translation": [0, 0, -5]
+			"scale": [2.5, 2.5, 2.5],
+			"translation": [0, 0, 0]
 		}
 	},
 	"groups": [
