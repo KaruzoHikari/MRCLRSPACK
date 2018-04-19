@@ -1,0 +1,84 @@
+{
+	"textures": {
+		"0": "mrcl/usedcolor2",
+		"particle": "mrcl/usedcolor2"
+	},
+	"elements": [
+		{
+			"name": "hexadecagon",
+			"from": [
+				7.692899667026545,
+				1.0473516849856352,
+				5.304884698275892
+			],
+			"to": [
+				9.286891236148964,
+				1.305049654530471,
+				6.461134698275892
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "z",
+				"origin": [
+					8.16979702853528,
+					5.226155580273721,
+					10.088134698275892
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 90
+				},
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 90
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6],
+			"translation": [0, -4.5, 0]
+		},
+		"thirdperson_righthand": {"scale": [0.3, 0.3, 0.3]},
+		"thirdperson_lefthand": {"scale": [0.3, 0.3, 0.3]},
+		"firstperson_righthand": {"scale": [0.3, 0.3, 0.3]},
+		"firstperson_lefthand": {"scale": [0.3, 0.3, 0.3]},
+		"ground": {"scale": [0.3, 0.3, 0.3]},
+		"fixed": {"scale": [0.3, 0.3, 0.3]},
+		"gui": {"scale": [0.2, 0.2, 0.2]}
+	},
+	"groups": [
+		{
+			"name": "hexadecagon",
+			"isOpen": true,
+			"shade": true,
+			"display": {"visibility": true, "autouv": false},
+			"children": [0]
+		}
+	]
+}

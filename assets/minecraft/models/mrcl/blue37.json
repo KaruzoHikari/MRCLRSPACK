@@ -1,0 +1,138 @@
+{
+	"textures": {
+		"0": "mrcl/usedcolor2",
+		"particle": "mrcl/usedcolor2"
+	},
+	"elements": [
+		{
+			"name": "hexadecagon",
+			"from": [
+				9.71540169294486,
+				10.99594804992888,
+				5.289259698275892
+			],
+			"to": [
+				10.989366599583066,
+				11.269271019473715,
+				6.445509698275892
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "z",
+				"origin": [
+					10.380057325860932,
+					7.121717124185629,
+					10.041259698275892
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 90
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 90
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				}
+			}
+		},
+		{
+			"name": "hexadecagon",
+			"from": [
+				7.009983763851035,
+				11.741825345469527,
+				5.289259698275892
+			],
+			"to": [
+				8.955537832973455,
+				12.015148315014361,
+				6.445509698275892
+			],
+			"rotation": {
+				"angle": 45,
+				"axis": "z",
+				"origin": [
+					8.23645297146472,
+					7.8675944197262755,
+					10.041259698275892
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 90
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"south": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				},
+				"down": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0",
+					"rotation": 270
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6],
+			"translation": [0, -4.5, 0]
+		},
+		"thirdperson_righthand": {"scale": [0.3, 0.3, 0.3]},
+		"thirdperson_lefthand": {"scale": [0.3, 0.3, 0.3]},
+		"firstperson_righthand": {"scale": [0.3, 0.3, 0.3]},
+		"firstperson_lefthand": {"scale": [0.3, 0.3, 0.3]},
+		"ground": {"scale": [0.3, 0.3, 0.3]},
+		"fixed": {"scale": [0.3, 0.3, 0.3]},
+		"gui": {"scale": [0.2, 0.2, 0.2]}
+	},
+	"groups": [
+		{
+			"name": "hexadecagon",
+			"isOpen": true,
+			"shade": true,
+			"display": {"visibility": true, "autouv": false},
+			"children": [0, 1]
+		}
+	]
+}
