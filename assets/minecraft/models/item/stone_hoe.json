@@ -59,7 +59,7 @@
 		{ "predicate": {"damaged": 1, "damage": 0.40151515151515155}, "model": "mrcl/blue32"},
 		{ "predicate": {"damaged": 1, "damage": 0.4090909090909091}, "model": "mrcl/insidering"},
 		{ "predicate": {"damaged": 1, "damage": 0.4166666666666667}, "model": "mrcl/insidecircle"},
-		{ "predicate": {"damaged": 1, "damage": 0.42424242424242425}, "model": "mrcl/blue55"},
+		{ "predicate": {"damaged": 1, "damage": 0.42424242424242425}, "model": "mrcl/bluefin"},
 		{ "predicate": {"damaged": 1, "damage": 0.4318181818181818}, "model": "mrcl/blue56"},
 		{ "predicate": {"damaged": 1, "damage": 0.4393939393939394}, "model": "mrcl/blue57"},
 		{ "predicate": {"damaged": 1, "damage": 0.44696969696969696}, "model": "mrcl/blue58"},
