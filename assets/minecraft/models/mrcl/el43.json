@@ -1,0 +1,65 @@
+{
+	"textures": {"2": "mrcl/elevatordoor"},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [-16, 26, 0],
+			"to": [32, 32, 1.25],
+			"faces": {
+				"north": {
+					"uv": [0, 1.91953125, 15.959375, 10.71875],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [0, 1.91953125, 15.959375, 10.71875],
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [0, 1.91953125, 15.959375, 10.71875],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [0, 1.91953125, 15.959375, 10.71875],
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [
+						5.199092741935484,
+						11.559999999999999,
+						6.517641129032258,
+						11.659999999999998
+					],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [
+						5.199092741935484,
+						11.559999999999999,
+						6.517641129032258,
+						11.659999999999998
+					],
+					"texture": "#2"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {"scale": [1.6, 1.6, 1.6]},
+		"thirdperson_righthand": {"scale": [0.3, 0.3, 0.3]},
+		"thirdperson_lefthand": {"scale": [0.3, 0.3, 0.3]},
+		"firstperson_righthand": {"scale": [0.3, 0.3, 0.3]},
+		"firstperson_lefthand": {"scale": [0.3, 0.3, 0.3]},
+		"ground": {"scale": [0.3, 0.3, 0.3]},
+		"fixed": {"scale": [0.3, 0.3, 0.3]},
+		"gui": {"scale": [0.2, 0.2, 0.2]}
+	},
+	"groups": [
+		{
+			"name": "Elevator",
+			"isOpen": true,
+			"shade": true,
+			"display": {"visibility": true, "autouv": false},
+			"children": [0]
+		}
+	]
+}
