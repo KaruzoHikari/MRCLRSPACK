@@ -9,5 +9,7 @@
 "rttp": {"sounds": [{"name":"mrcl/rttp","stream":false}]},
 "elevatorloop": {"sounds": [{"name":"mrcl/elevatorloop","stream":false}]},
 "elevatorsound": {"sounds": [{"name":"mrcl/elevatorsound","stream":false}]},
-"gate": {"sounds": [{"name":"mrcl/gate","stream":false}]}
+"gate": {"sounds": [{"name":"mrcl/gate","stream":false}]},
+"gateclosing": {"sounds": [{"name":"mrcl/gateclosing","stream":false}]},
+"gatefullclosing": {"sounds": [{"name":"mrcl/gatefullclosing","stream":false}]}
 }
