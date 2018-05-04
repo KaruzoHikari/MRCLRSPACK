@@ -6,5 +6,8 @@
 "virt": {"sounds": [{"name":"mrcl/virt","stream":false}]},
 "holomaploop": {"sounds": [{"name":"mrcl/holomaploop","stream":false}]},
 "scan": {"sounds": [{"name":"mrcl/scan","stream":false}]},
-"rttp": {"sounds": [{"name":"mrcl/rttp","stream":false}]}
+"rttp": {"sounds": [{"name":"mrcl/rttp","stream":false}]},
+"elevatorloop": {"sounds": [{"name":"mrcl/elevatorloop","stream":false}]},
+"elevatorsound": {"sounds": [{"name":"mrcl/elevatorsound","stream":false}]},
+"gate": {"sounds": [{"name":"mrcl/gate","stream":false}]}
 }
