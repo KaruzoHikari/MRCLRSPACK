@@ -130,9 +130,9 @@
 		{ "predicate": {"damaged": 1, "damage": 0.9393939393939394}, "model": "mrcl/el47"},
 		{ "predicate": {"damaged": 1, "damage": 0.946969696969697}, "model": "mrcl/el48"},
 		{ "predicate": {"damaged": 1, "damage": 0.9545454545454546}, "model": "mrcl/roof"},
-		{ "predicate": {"damaged": 1, "damage": 0.9621212121212122}, "model": "mrcl/blue126"},
-		{ "predicate": {"damaged": 1, "damage": 0.9696969696969697}, "model": "mrcl/blue127"},
-		{ "predicate": {"damaged": 1, "damage": 0.9772727272727273}, "model": "mrcl/blue128"},
+		{ "predicate": {"damaged": 1, "damage": 0.9621212121212122}, "model": "mrcl/kankrelat"},
+		{ "predicate": {"damaged": 1, "damage": 0.9696969696969697}, "model": "mrcl/megatank"},
+		{ "predicate": {"damaged": 1, "damage": 0.9772727272727273}, "model": "mrcl/blok"},
 		{ "predicate": {"damaged": 1, "damage": 0.9848484848484849}, "model": "mrcl/blue129"},
 		{ "predicate": {"damaged": 1, "damage": 0.9924242424242424}, "model": "mrcl/blue130"}
 	]
