@@ -1,3 +1,4 @@
+# Factory
 Elevator: =Ascenseur: 
 
 Locked=Verrouillé
@@ -13,9 +14,17 @@ Not enough energy. Return to the Past could not be launched.=Pas assez d’éner
 Return to the Past was launched.=Le Retour vers le Passé a était enclenché.
 ERROR -> No connection to Lyoko.=ERREUR -> Aucune connexion à Lyoko.
 
-
+# Earth
 Boys=Garçons
 Girls=Filles
 
+# Frontier
+[ERROR: Searching Data...]=[ERREUR: Recherche de données...]
+[DNA Corrupted...]=[ADN Corroumpu...]
+[Erasing Data In Progress...]=[Suppression en cours...]
+YOU DIED!=VOUS ÊTES MORT!
+Better luck next time!=Vous feriez mieux la prochaine fois !
+Here's a another chance... Don't die this time.=Voila une autre chance... Ne la gâche pas.
 
+# Items
 item.bow.name=Main de Odd
