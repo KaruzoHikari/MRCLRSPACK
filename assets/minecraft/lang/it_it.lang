@@ -1,0 +1,81 @@
+﻿# Factory
+Elevator: =Ascensore: 
+
+Locked=Bloccato
+Unlocked=Sbloccato
+
+is activated by=è attivata da
+has been deactivated.=è stata disattivata.
+No active towers detected.=Nessuna torre attiva rilevata.
+is on cooldown. Please wait.=è in raffreddamento. Per favore, aspetta.
+
+A tower is active. Return to the Past could not be launched.=C'è una torre attiva. Il ritorno al passato non può essere lanciato.
+Not enough energy. Return to the Past could not be launched.=Non c'è abbastanza energia. Il ritorno al passato non può essere lanciato.
+Return to the Past was launched.=È stato lanciato il ritorno al passato.
+ERROR -> No connection to Lyoko.=ERROR -> Nessuna connessione a Lyoko.
+
+# Earth
+Boys=Ragazzi
+Girls=Ragazze
+
+# Frontier
+[ERROR: Searching Data...]=[ERRORE: Ricerca dati in corso...]
+[DNA Corrupted...]=[DNA corrotto...]
+[Erasing Data In Progress...]=[Cancellazione dati in corso...]
+YOU DIED!=SEI MORTO!
+Better luck next time!=Buona fortuna per la prossima volta!
+Here's a another chance... Don't die this time.=Ecco a te un'altra possibilità... Non morire questa volta.
+
+# Items
+item.bow.name=Mano di Odd
+
+# Advancements
+MRCL - Earth=MRCL - Terra
+Hey Belpois! Welcome to Kadic.=Hey, Belpois! Benvenuto al collegio Kadic.
+Elementary, my dear Watson=Elementare, mio caro Watson
+Find the Forest entrance to the sewers.=Trova l'accesso per le fogne nella foresta.
+Windows's Lover=Amante di Windows
+Turn on all the computers in the IT room=Accendi tutti i computer nella sala di informatica
+The abandoned factory=La fabbrica abbandonata
+Find the old Renault's Factory.=Trova la vecchia fabbrica della Renault.
+Find the entrance to the second floor of the theatre.=Trova l'ingresso per il secondo piano del teatro.
+Oui oui croissant=Oui oui, croissant
+Oh, Romeo!=Oh, Romeo!
+Eat something at the cafeteria.=Mangia qualcosa nella caffetteria.
+Franz's daughter?=La figlia di Franz?
+Find the photo of Aelita in the school files.=Trova la foto di Aelita nei files della scuola.
+Hiroki wouldn't be proud of you=Hiroki non sarebbe fiero di te
+Use the key to access the roof of the Science Building.=Utilizza la chiave per accedere al tetto dell'edificio di scienze.
+Greenpeace's Agent=Agente del Greenpeace
+Turn off the power system of the Factory.=Spegni il sistema di alimentazione della fabbrica.
+Use the RTTP program for the first time.=Utilizza il programma del ritorno al passato per la prima volta.
+Renault's Factory=La fabbrica della Renault
+Find Nathan Pineau's diary.=Trova il diario di Nathan Pineau.
+No, turn it on! :(=No, accendilo! :(
+Turn off the Supercomputer.=Spegni il Supercomputer.
+
+Transfer, scanner, virtualization!=Transferimento, scanner, virtualizzazione!
+Deactivate a tower for the first time.=Disattiva una torre per la prima volta.
+Code: EARTH=Codice: TERRA
+Code: LYOKO=Codice: LYOKO
+Use the materialization program for the first time.=Utilizza il programma di materializzazione per la prima volta.
+Waytower!=Torre con ripetitore!
+Use a waytower for the first time.=Attraversa una torre con ripetitore per la prima volta.
+Waytow...! wait.=Torre con...! Aspetta un secondo...
+Try to use a non-waytower as if it were one.=Prova ad attraversare una torre semplice come se ne fosse una con ripetitore.
+Enter the frontier.=Entra nella frontiera.
+Save someone from the frontier.=Salva qualcuno dalla frontiera.
+
+MRCL - Carthage=MRCL - Settore 5
+Find Carthage's tower.=Trova la torre del settore 5.
+WHY WOULD YOU?!=PERCHÈ DOVRESTI FARLO!?
+Try to destroy the core.=Prova a distruggere il cuore.
+Sorcerer's Apprentice=Apprendista stregone
+Use the terminal for the first time.=Utilizza il terminale per la prima volta.
+
+MRCL - Events=MRCL - Eventi
+Find the museum.=Trova il museo.
+It's the Punic Wars again=Sono di nuovo le guerre puniche
+Be in the server when the Doomsday event starts.=Sii online nel server all'inaugurazione dell'evento "Giorno del destino".
+Who's not Aelita these days=Chi non è Aelita in questi giorni
+Beat the Doomsday event.=Supera l'evento "Giorno del destino".
