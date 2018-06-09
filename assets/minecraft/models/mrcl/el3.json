@@ -3,7 +3,7 @@
 	"elements": [
 		{
 			"name": "cube",
-			"from": [-16, -14, 0],
+			"from": [-16, -14, -1],
 			"to": [32, 32, 1.25],
 			"faces": {
 				"north": {
@@ -44,7 +44,10 @@
 		}
 	],
 	"display": {
-		"head": {"scale": [1.6, 1.6, 1.6]},
+		"head": {
+			"scale": [1.6, 1.6, 1.6],
+			"translation": [0, 32, 0]
+		},
 		"thirdperson_righthand": {"scale": [0.3, 0.3, 0.3]},
 		"thirdperson_lefthand": {"scale": [0.3, 0.3, 0.3]},
 		"firstperson_righthand": {"scale": [0.3, 0.3, 0.3]},
