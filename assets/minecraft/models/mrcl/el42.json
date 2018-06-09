@@ -3,7 +3,7 @@
 	"elements": [
 		{
 			"name": "cube",
-			"from": [-16, 25, 0],
+			"from": [-16, 25, -1],
 			"to": [32, 32, 1.25],
 			"faces": {
 				"north": {
