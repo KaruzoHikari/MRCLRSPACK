@@ -15,5 +15,6 @@
 "elevatordown1": {"sounds": [{"name":"mrcl/elevatordown1","stream":false}]},
 "elevatordown2": {"sounds": [{"name":"mrcl/elevatordown2","stream":false}]},
 "sewers": {"sounds": [{"name":"mrcl/sewers","stream":false}]},
+"towerenter": {"sounds": [{"name":"mrcl/towerenter","stream":false}]},
 "gateanimation": {"sounds": [{"name":"mrcl/gateanimation","stream":false}]}
 }
