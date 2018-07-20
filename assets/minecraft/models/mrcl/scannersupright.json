@@ -38,15 +38,15 @@
 		{
 			"name": "hexadecagon",
 			"from": [5.31966, -16, -5.475],
-			"to": [6.33034, 16, -4.447],
+			"to": [6.33034, 16, -4.475],
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [13, 12, 11, 15], "texture": "#0", "rotation": 180},
-				"east": {"uv": [1, 11, 5.3602, 15], "texture": "#0", "rotation": 180},
+				"north": {"uv": [13, 0, 14.01068, 16], "texture": "#0", "rotation": 180},
+				"east": {"uv": [1, 0, 2, 16], "texture": "#0", "rotation": 180},
 				"south": {"uv": [1, 11, 5.3602, 15], "texture": "#0", "rotation": 180},
-				"west": {"uv": [0, 0, 1.028, 16], "texture": "#missing"},
-				"up": {"uv": [1, 5, 2.01068, 6.028], "texture": "#6"},
-				"down": {"uv": [1, 11, 2.01068, 12.028], "texture": "#0", "rotation": 180}
+				"west": {"uv": [0, 0, 1, 16], "texture": "#missing"},
+				"up": {"uv": [1, 5, 2.01068, 6], "texture": "#6"},
+				"down": {"uv": [1, 11, 2.01068, 12], "texture": "#0", "rotation": 180}
 			}
 		},
 		{
