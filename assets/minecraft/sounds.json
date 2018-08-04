@@ -18,5 +18,6 @@
 "towerenter": {"sounds": [{"name":"mrcl/towerenter","stream":false}]},
 "lyokoarrival": {"sounds": [{"name":"mrcl/lyokoarrival","stream":false}]},
 "openscanner": {"sounds": [{"name":"mrcl/openscanner","stream":false}]},
+"towerdeactivated": {"sounds": [{"name":"mrcl/towerdeactivated","stream":false}]},
 "gateanimation": {"sounds": [{"name":"mrcl/gateanimation","stream":false}]}
 }
