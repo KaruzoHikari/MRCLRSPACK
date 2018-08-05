@@ -19,5 +19,10 @@
 "lyokoarrival": {"sounds": [{"name":"mrcl/lyokoarrival","stream":false}]},
 "openscanner": {"sounds": [{"name":"mrcl/openscanner","stream":false}]},
 "towerdeactivated": {"sounds": [{"name":"mrcl/towerdeactivated","stream":false}]},
+"sccover1": {"sounds": [{"name":"mrcl/sccover1","stream":false}]},
+"sccover2": {"sounds": [{"name":"mrcl/sccover2","stream":false}]},
+"scdown": {"sounds": [{"name":"mrcl/scdown","stream":false}]},
+"interfaceon1": {"sounds": [{"name":"mrcl/interfaceon1","stream":false}]},
+"interfaceon2": {"sounds": [{"name":"mrcl/interfaceon2","stream":false}]},
 "gateanimation": {"sounds": [{"name":"mrcl/gateanimation","stream":false}]}
 }
