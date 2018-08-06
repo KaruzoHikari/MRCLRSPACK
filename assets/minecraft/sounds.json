@@ -24,5 +24,7 @@
 "scdown": {"sounds": [{"name":"mrcl/scdown","stream":false}]},
 "interfaceon1": {"sounds": [{"name":"mrcl/interfaceon1","stream":false}]},
 "interfaceon2": {"sounds": [{"name":"mrcl/interfaceon2","stream":false}]},
+"intube": {"sounds": [{"name":"mrcl/intube","stream":false}]},
+"alarm": {"sounds": [{"name":"mrcl/alarm","stream":false}]},
 "gateanimation": {"sounds": [{"name":"mrcl/gateanimation","stream":false}]}
 }
