@@ -1,6 +1,42 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "items/gold_hoe"
-    }
+        "layer0": "item/gold_hoe"
+    },
+    "overrides": [
+        { "predicate": {"damaged": 0, "damage": 0}, "model": "item/gold_hoe"},
+        { "predicate": {"damaged": 0, "damage": 0.030303030303030304}, "model": "mrcl/blok"},
+        { "predicate": {"damaged": 0, "damage": 0.06060606060606061}, "model": "item/gold_hoe1"},
+        { "predicate": {"damaged": 0, "damage": 0.09090909090909091}, "model": "item/gold_hoe2"},
+        { "predicate": {"damaged": 0, "damage": 0.12121212121212122}, "model": "item/gold_hoe3"},
+        { "predicate": {"damaged": 0, "damage": 0.15151515151515152}, "model": "item/gold_hoe4"},
+        { "predicate": {"damaged": 0, "damage": 0.18181818181818182}, "model": "item/gold_hoe5"},
+        { "predicate": {"damaged": 0, "damage": 0.21212121212121213}, "model": "item/gold_hoe6"},
+        { "predicate": {"damaged": 0, "damage": 0.24242424242424243}, "model": "item/gold_hoe7"},
+        { "predicate": {"damaged": 0, "damage": 0.2727272727272727}, "model": "item/gold_hoe8"},
+        { "predicate": {"damaged": 0, "damage": 0.30303030303030304}, "model": "item/gold_hoe9"},
+        { "predicate": {"damaged": 0, "damage": 0.33333333333333337}, "model": "item/gold_hoe10"},
+        { "predicate": {"damaged": 0, "damage": 0.36363636363636365}, "model": "item/gold_hoe11"},
+        { "predicate": {"damaged": 0, "damage": 0.3939393939393939}, "model": "item/gold_hoe12"},
+        { "predicate": {"damaged": 0, "damage": 0.42424242424242425}, "model": "item/gold_hoe13"},
+        { "predicate": {"damaged": 0, "damage": 0.4545454545454546}, "model": "item/gold_hoe14"},
+        { "predicate": {"damaged": 0, "damage": 0.48484848484848486}, "model": "item/gold_hoe15"},
+        { "predicate": {"damaged": 0, "damage": 0.5151515151515151}, "model": "item/gold_hoe16"},
+        { "predicate": {"damaged": 0, "damage": 0.5454545454545454}, "model": "item/gold_hoe17"},
+        { "predicate": {"damaged": 0, "damage": 0.5757575757575758}, "model": "item/gold_hoe18"},
+        { "predicate": {"damaged": 0, "damage": 0.6060606060606061}, "model": "item/gold_hoe19"},
+        { "predicate": {"damaged": 0, "damage": 0.6363636363636364}, "model": "item/gold_hoe20"},
+        { "predicate": {"damaged": 0, "damage": 0.6666666666666667}, "model": "item/gold_hoe21"},
+        { "predicate": {"damaged": 0, "damage": 0.696969696969697}, "model": "item/gold_hoe22"},
+        { "predicate": {"damaged": 0, "damage": 0.7272727272727273}, "model": "item/gold_hoe23"},
+        { "predicate": {"damaged": 0, "damage": 0.7575757575757576}, "model": "item/gold_hoe24"},
+        { "predicate": {"damaged": 0, "damage": 0.7878787878787878}, "model": "item/gold_hoe25"},
+        { "predicate": {"damaged": 0, "damage": 0.8181818181818182}, "model": "item/gold_hoe26"},
+        { "predicate": {"damaged": 0, "damage": 0.8484848484848485}, "model": "item/gold_hoe27"},
+        { "predicate": {"damaged": 0, "damage": 0.8787878787878788}, "model": "item/gold_hoe28"},
+        { "predicate": {"damaged": 0, "damage": 0.9090909090909092}, "model": "item/gold_hoe29"},
+        { "predicate": {"damaged": 0, "damage": 0.9393939393939394}, "model": "item/gold_hoe30"},
+        { "predicate": {"damaged": 0, "damage": 0.9696969696969697}, "model": "item/gold_hoe31"},
+        { "predicate": {"damaged": 1, "damage": 0}, "model": "item/gold_hoe"}
+    ]
 }
