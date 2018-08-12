@@ -33,7 +33,7 @@
 		{ "predicate": { "damaged": 1, "damage": 0.016645326504481 }, "model": "mrcl/scclose2" },
 		{ "predicate": { "damaged": 1, "damage": 0.017285531370038 }, "model": "mrcl/scclose3" },
 		{ "predicate": { "damaged": 1, "damage": 0.017925736235595 }, "model": "mrcl/scclosecover" },
-		{ "predicate": { "damaged": 1, "damage": 0.018565941101152 }, "model": "mrcl/model29" },
+		{ "predicate": { "damaged": 1, "damage": 0.018565941101152 }, "model": "mrcl/holomap" },
 		{ "predicate": { "damaged": 1, "damage": 0.019206145966709 }, "model": "mrcl/model30" },
 		{ "predicate": { "damaged": 1, "damage": 0.019846350832266 }, "model": "mrcl/model31" },
 		{ "predicate": { "damaged": 1, "damage": 0.020486555697823 }, "model": "mrcl/model32" },
