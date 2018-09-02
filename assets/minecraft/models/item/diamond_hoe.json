@@ -40,7 +40,7 @@
 		{ "predicate": { "damaged": 1, "damage": 0.02112676056338 }, "model": "mrcl/uskate" },
 		{ "predicate": { "damaged": 1, "damage": 0.021766965428937 }, "model": "mrcl/scooter" },
 		{ "predicate": { "damaged": 1, "damage": 0.022407170294494 }, "model": "mrcl/scooterwall" },
-		{ "predicate": { "damaged": 1, "damage": 0.023047375160051 }, "model": "mrcl/model36" },
+		{ "predicate": { "damaged": 1, "damage": 0.023047375160051 }, "model": "mrcl/overwing" },
 		{ "predicate": { "damaged": 1, "damage": 0.023687580025608 }, "model": "mrcl/model37" },
 		{ "predicate": { "damaged": 1, "damage": 0.024327784891165 }, "model": "mrcl/model38" },
 		{ "predicate": { "damaged": 1, "damage": 0.024967989756722 }, "model": "mrcl/model39" },
