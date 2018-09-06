@@ -26,5 +26,8 @@
 "interfaceon2": {"sounds": [{"name":"mrcl/interfaceon2","stream":false}]},
 "intube": {"sounds": [{"name":"mrcl/intube","stream":false}]},
 "alarm": {"sounds": [{"name":"mrcl/alarm","stream":false}]},
+"breakaway": {"sounds": [{"name":"mrcl/breakaway","stream":true}]},
+"planetnet": {"sounds": [{"name":"mrcl/planetnet","stream":true}]},
+"awwd": {"sounds": [{"name":"mrcl/awwd","stream":true}]},
 "gateanimation": {"sounds": [{"name":"mrcl/gateanimation","stream":false}]}
 }
