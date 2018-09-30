@@ -26,5 +26,7 @@
 "interfaceon2": {"sounds": [{"name":"mrcl/interfaceon2","stream":false}]},
 "intube": {"sounds": [{"name":"mrcl/intube","stream":false}]},
 "alarm": {"sounds": [{"name":"mrcl/alarm","stream":false}]},
+"elevatording": {"sounds": [{"name":"mrcl/elevatording","stream":false}]},
+"elevatordoor": {"sounds": [{"name":"mrcl/elevatordoor","stream":false}]},
 "gateanimation": {"sounds": [{"name":"mrcl/gateanimation","stream":false}]}
 }

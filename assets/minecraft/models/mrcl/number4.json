@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "mrcl/number4",
+		"particle": "mrcl/number4"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 3, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [2.5, 2.5, 2.5],
+			"translation": [10, 7.5, 19.35]
+		}
+	}
+}
