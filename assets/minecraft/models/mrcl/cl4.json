@@ -1,0 +1,105 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"4": "blocks/anvil_base",
+		"7": "blocks/coal_block",
+		"9": "blocks/hardened_clay_stained_cyan"
+	},
+	"elements": [
+		{
+			"from": [-12.2, -16, 0.05],
+			"to": [5, 32, 1],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 0.5]},
+			"faces": {
+				"north": {"uv": [10, 3, 6, 12], "texture": "#9", "rotation": 180},
+				"east": {"uv": [15, 0, 16, 16], "texture": "#4", "rotation": 180},
+				"south": {"uv": [6, 3, 10, 12], "texture": "#9", "rotation": 180},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#4", "rotation": 180},
+				"up": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180},
+				"down": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180}
+			}
+		},
+		{
+			"from": [11, -16, 0.05],
+			"to": [28.3, 32, 1],
+			"rotation": {"angle": 0, "axis": "x", "origin": [32, 8, 0.5]},
+			"faces": {
+				"north": {"uv": [6, 3, 10, 12], "texture": "#9", "rotation": 180},
+				"east": {"uv": [15, 0, 16, 16], "texture": "#4", "rotation": 180},
+				"south": {"uv": [10, 3, 6, 12], "texture": "#9", "rotation": 180},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#4", "rotation": 180},
+				"up": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180},
+				"down": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180}
+			}
+		},
+		{
+			"from": [4.3, -16, 0],
+			"to": [5.05, 32, 1.1],
+			"rotation": {"angle": 0, "axis": "x", "origin": [5, 8, 0.5]},
+			"faces": {
+				"north": {"uv": [9, 12, 6, 13], "texture": "#7", "rotation": 180},
+				"east": {"uv": [7, 12, 6, 13], "texture": "#7", "rotation": 180},
+				"south": {"uv": [6, 12, 9, 13], "texture": "#7", "rotation": 180},
+				"west": {"uv": [8, 15, 6, 16], "texture": "#7", "rotation": 180},
+				"up": {"uv": [8, 15, 6, 16], "texture": "#7", "rotation": 180},
+				"down": {"uv": [8, 15, 6, 16], "texture": "#7", "rotation": 180}
+			}
+		},
+		{
+			"from": [10.95, -16, 0],
+			"to": [11.7, 32, 1.1],
+			"rotation": {"angle": 0, "axis": "x", "origin": [12, 8, 0.5]},
+			"faces": {
+				"north": {"uv": [6, 12, 9, 13], "texture": "#7", "rotation": 180},
+				"east": {"uv": [8, 15, 6, 16], "texture": "#7", "rotation": 180},
+				"south": {"uv": [9, 12, 6, 13], "texture": "#7", "rotation": 180},
+				"west": {"uv": [8, 15, 6, 16], "texture": "#7", "rotation": 180},
+				"up": {"uv": [8, 15, 6, 16], "texture": "#7", "rotation": 180},
+				"down": {"uv": [8, 15, 6, 16], "texture": "#7", "rotation": 180}
+			}
+		},
+		{
+			"from": [-15.95, -16, 0],
+			"to": [-12.2, 32, 1.1],
+			"rotation": {"angle": 0, "axis": "x", "origin": [-14.2, 8, 0.5]},
+			"faces": {
+				"north": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180},
+				"east": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180},
+				"south": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180},
+				"west": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180},
+				"up": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180},
+				"down": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180}
+			}
+		},
+		{
+			"from": [28.3, -16, 0],
+			"to": [31.95, 32, 1.1],
+			"rotation": {"angle": 0, "axis": "x", "origin": [29.1, 8, 0.5]},
+			"faces": {
+				"north": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180},
+				"east": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180},
+				"south": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180},
+				"west": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180},
+				"up": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180},
+				"down": {"uv": [10.016, 10.016, 10.984, 10.984], "texture": "#7", "rotation": 180}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [0, 1, 2, 3, 4, 5,
+		{
+			"name": "hexadecagon",
+			"isOpen": true,
+			"shade": true,
+			"display": {
+				"visibility": false,
+				"autouv": false
+			},
+			"children": []
+		}
+	]
+}
