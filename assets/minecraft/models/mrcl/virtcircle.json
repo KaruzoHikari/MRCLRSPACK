@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/concrete_powder_light_blue",
-		"particle": "blocks/concrete_powder_light_blue"
+		"0": "block/light_blue_concrete_powder",
+		"particle": "block/light_blue_concrete_powder"
 	},
 	"elements": [
 		{

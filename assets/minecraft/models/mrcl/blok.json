@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_yellow",
+		"0": "block/yellow_terracotta",
 		"1": "mrcl/darkyellow",
-		"2": "blocks/door_birch_lower",
-		"3": "blocks/concrete_black",
+		"2": "block/birch_door_lower",
+		"3": "block/black_concrete",
 		"4": "mrcl/hardened_clay_stained_yellow",
 		"5": "mrcl/rededit",
-		"6": "blocks/ice",
+		"6": "block/ice",
 		"7": "mrcl/darkred",
 		"particle": "mrcl/darkyellow"
 	},

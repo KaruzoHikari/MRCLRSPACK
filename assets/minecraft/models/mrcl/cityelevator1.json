@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/quartz_block_lines",
-		"4": "blocks/anvil_base",
+		"0": "block/quartz_pillar",
+		"4": "block/anvil",
 		"5": "mrcl/elevatorpanel",
-		"6": "blocks/quartz_block_lines_top",
-		"7": "blocks/coal_block",
-		"10": "blocks/door_iron_lower",
-		"particle": "blocks/quartz_block_lines"
+		"6": "block/quartz_pillar_top",
+		"7": "block/coal_block",
+		"10": "block/iron_door_lower",
+		"particle": "block/quartz_pillar"
 	},
 	"elements": [
 		{

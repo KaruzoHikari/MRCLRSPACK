@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/hardened_clay_stained_blue",
-		"1": "blocks/clay",
-		"2": "blocks/door_acacia_upper",
-		"3": "blocks/coal_block",
+		"0": "block/blue_terracotta",
+		"1": "block/clay",
+		"2": "block/acacia_door_upper",
+		"3": "block/coal_block",
 		"5": "mrcl/overwing",
-		"particle": "blocks/hardened_clay_stained_blue"
+		"particle": "block/blue_terracotta"
 	},
 	"elements": [
 		{

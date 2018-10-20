@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/gold_block",
-		"1": "blocks/anvil_base",
-		"particle": "blocks/gold_block"
+		"0": "block/gold_block",
+		"1": "block/anvil",
+		"particle": "block/gold_block"
 	},
 	"elements": [
 		{

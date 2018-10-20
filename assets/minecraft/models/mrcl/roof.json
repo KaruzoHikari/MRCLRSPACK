@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"7": "blocks/anvil_base",
+		"7": "block/anvil",
 		"8": "mrcl/upelevator"
 	},
 	"elements": [

@@ -1,15 +1,15 @@
 {
 	"textures": {
-		"1": "blocks/hardened_clay_stained_yellow",
-		"3": "blocks/coal_block",
+		"1": "block/yellow_terracotta",
+		"3": "block/coal_block",
 		"4": "mrcl/wall",
-		"11": "blocks/planks_oak",
-		"15": "blocks/log_oak",
-		"23": "blocks/hardened_clay_stained_cyan",
-		"25": "blocks/hardened_clay_stained_brown",
-		"1_3": "blocks/coal_block",
+		"11": "block/oak_planks",
+		"15": "block/oak_log",
+		"23": "block/cyan_terracotta",
+		"25": "block/brown_terracotta",
+		"1_3": "block/coal_block",
 		"1_4": "mrcl/wall",
-		"1_23": "blocks/hardened_clay_stained_cyan"
+		"1_23": "block/cyan_terracotta"
 	},
 	"elements": [
 		{

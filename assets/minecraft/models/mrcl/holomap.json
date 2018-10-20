@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/log_oak",
-		"1": "blocks/hardened_clay_stained_green",
-		"2": "blocks/ice_packed",
-		"3": "blocks/glazed_terracotta_yellow",
-		"4": "blocks/hardened_clay_stained_brown",
-		"5": "blocks/hardened_clay_stained_blue",
-		"1_0": "blocks/concrete_orange",
-		"particle": "blocks/concrete_orange"
+		"0": "block/oak_log",
+		"1": "block/green_terracotta",
+		"2": "block/packed_ice",
+		"3": "block/yellow_glazed_terracotta",
+		"4": "block/brown_terracotta",
+		"5": "block/blue_terracotta",
+		"1_0": "block/orange_concrete",
+		"particle": "block/orange_concrete"
 	},
 	"elements": [
 		{

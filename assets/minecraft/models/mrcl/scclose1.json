@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "blocks/debug",
-		"2": "blocks/concrete_powder_black"
+		"1": "block/debug",
+		"2": "block/black_concrete_powder"
 	},
 	"elements": [
 		{
