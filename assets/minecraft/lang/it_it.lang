@@ -1,22 +1,5 @@
-﻿# Factory
-Elevator: =Ascensore: 
-
-Locked=Bloccato
-Unlocked=Sbloccato
-
-is activated by=è attivata da
-has been deactivated.=è stata disattivata.
-No active towers detected.=Nessuna torre attiva rilevata.
-is on cooldown. Please wait.=è in raffreddamento. Per favore, aspetta.
-
-A tower is active. Return to the Past could not be launched.=C'è una torre attiva. Il ritorno al passato non può essere lanciato.
-Not enough energy. Return to the Past could not be launched.=Non c'è abbastanza energia. Il ritorno al passato non può essere lanciato.
-Return to the Past was launched.=È stato lanciato il ritorno al passato.
-ERROR -> No connection to Lyoko.=ERROR -> Nessuna connessione a Lyoko.
-
-# Earth
-Boys=Ragazzi
-Girls=Ragazze
+# Items
+item.bow.name=Mano di Odd
 
 # Frontier
 [ERROR: Searching Data...]=[ERRORE: Ricerca dati in corso...]
@@ -25,9 +8,6 @@ Girls=Ragazze
 YOU DIED!=SEI MORTO!
 Better luck next time!=Buona fortuna per la prossima volta!
 Here's a another chance... Don't die this time.=Ecco a te un'altra possibilità... Non morire questa volta.
-
-# Items
-item.bow.name=Mano di Odd
 
 # Advancements
 MRCL - Earth=MRCL - Terra

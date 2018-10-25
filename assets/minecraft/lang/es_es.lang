@@ -1,22 +1,5 @@
-# Factory
-Elevator: =Ascensor: 
-
-Locked=Bloqueado
-Unlocked=Desbloqueado
-
-is activated by=está activada por
-has been deactivated.=ha sido desactivada.
-No active towers detected.=No se detectaron torres activadas.
-is on cooldown. Please wait.=está recargándose. Por favor, espera.
-
-A tower is active. Return to the Past could not be launched.=Una torre está activada. Volver al Pasado no pudo ser ejecutado.
-Not enough energy. Return to the Past could not be launched.=No hay suficiente energía. Volver al Pasado no pudo ser ejecutado.
-Return to the Past was launched.=Volver al Pasado ha sido ejecutado.
-ERROR -> No connection to Lyoko.=ERROR -> No hay conexión con Lyoko.
-
-# Earth
-Boys=Chicos
-Girls=Chicas
+# Items
+item.bow.name=Mano de Odd
 
 # Frontier
 [ERROR: Searching Data...]=[ERROR: Buscando datos...]
@@ -25,9 +8,6 @@ Girls=Chicas
 YOU DIED!=¡MORISTE!
 Better luck next time!=¡Más suerte la próxima vez!
 Here's a another chance... Don't die this time.=Aquí tienes otra oportunidad... No mueras esta vez.
-
-# Items
-item.bow.name=Mano de Odd
 
 # Advancements
 MRCL - Earth=MRCL - Tierra
@@ -79,3 +59,15 @@ It's the Punic Wars again=Vuelven las Guerras Púnicas
 Be in the server when the Doomsday event starts.=Estate en el servidor cuando el evento de Doomsday comience.
 Who's not Aelita these days=Quién no es Aelita estos días
 Beat the Doomsday event.=Supera el evento de Doomsday.
+
+# Diary
+book.diary1.page1=Nathan Pineau – 18 de abril de 1993.%1$sAyer hizo 17 años desde que la Fábrica cerró. Hace unas semanas Thomas me dijo que los ladrillos que solían bloquear la entrada han sido quitados, así que ahora podemos volver a entrar. Pensé que caminar
+book.diary1.page2=por las salas un poco estaría bien para recordar los viejos tiempos, así que decidí ir y echar un vistazo alrededor.%1$sEntré a la Fábrica: Ya no olía a muerto. Incluso habiendo invertido Renault mucho dinero para construir la Fábrica, no estaban muy
+book.diary1.page3=concienciados de la seguridad, y casi no instalaron tubos de ventilación. Por culpa de esto, en aquellos días era muy difícil respirar en las salas.%1$sEn los 17 años que han pasado, las escaleras principales se habían destrozado, pero había algunas
+book.diary1.page4=cuerdas colgando del techo, así que las usé para llegar al suelo.%1$sUna vez allí, pensé, "y ahora ¿qué?". Después recordé que aún tenía la llave de mi taquilla en mi llavero, así que decidí ir a echar un vistazo.%1$sLlegué allí. Y nada. No había nada dentro. La
+book.diary1.page5=verdad, no sé qué esperaba encontrar.  Estaba muy decepcionado, y, mientras salía de la habitación, me di cuenta de que el pasillo estaba más frío que la sala de taquillas.%1$s"Qué raro" – Pensé. Puse mi mano contra una tubería que solía
+book.diary1.page6=llevar el agua caliente. Ardía. ¿Por qué estaría la caldera encendida? Eso era algo que merecía la pena comprobar.%1$sPodría haber ido por el otro túnel, pero preferí ir por las escaleras; y, en mi camino, me encontré algunos graffitis que
+book.diary1.page7=alguien había hecho. Supongo que es lo habitual cuando los adolescentes encuentran sitios abandonados.%1$sCuando llegué la sala de calderas, encontré en efecto la caldera funcionando. Aun así, no había nadie en los alrededores. Estaba
+book.diary1.page8=a punto de irme, pero luego miré hacia arriba y vi luz viniendo de un pequeño agujero en la pared que antes no estaba ahí.%1$sPodría haberme ido, pero pensé que nadie más se iba a preocupar de la Fábrica de todas formas, así que decidí
+book.diary1.page9=comprobar qué era. Pero, ahora, me arrepiento de lo que hice.%1$sPorque ahí dentro había una sala. Y, en esa sala, había un hombre en una bata de laboratorio y gafas, montando algunas partes eléctricas en una
+book.diary1.page10=gigante y compleja estructura.%1$sSuficiente Fábrica para mí.
