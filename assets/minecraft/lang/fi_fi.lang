@@ -1,22 +1,5 @@
-# Factory
-Elevator: =Hissi: 
-
-Locked=Lukittu
-Unlocked=Ei-lukittu
-
-is activated by= on aktivoitu
-has been deactivated.=on deaktivoitu.
-No active towers detected.=Ei aktiivisia torneja havaittu.
-is on cooldown. Please wait.=latautuu. Ole hyvä ja odota.
-
-A tower is active. Return to the Past could not be launched.=Torni on aktiivinen. Paluuta menneisyyteen ei voida käynnistää.
-Not enough energy. Return to the Past could not be launched.=Ei tarpeeksi virtaa. Paluuta menneisyyteen ei voida käynnistää.
-Return to the Past was launched.=Paluu menneisyyteen käynnistetty.
-ERROR -> No connection to Lyoko.=VIRHE -> Ei yhteyttä Lyokoon.
-
-# Earth
-Boys=Pojat
-Girls=Tytöt
+# Items
+item.bow.name=Oddin käsi
 
 # Frontier
 [ERROR: Searching Data...]=[VIRHE: Etsitään Dataa...]
@@ -25,9 +8,6 @@ Girls=Tytöt
 YOU DIED!=KUOLIT!
 Better luck next time!=Parempi tuuri ensi kerralla!
 Here's a another chance... Don't die this time.=Tässä uusi mahdollisuus... Älä kuole tällä kertaa.
-
-# Items
-item.bow.name=Oddin käsi
 
 # Advancements
 MRCL - Earth=MRCL - Maa
