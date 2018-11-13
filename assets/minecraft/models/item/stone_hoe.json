@@ -68,7 +68,7 @@
 		{ "predicate": {"damaged": 1, "damage": 0.4696969696969697}, "model": "mrcl/el6"},
 		{ "predicate": {"damaged": 1, "damage": 0.4772727272727273}, "model": "mrcl/el7"},
 		{ "predicate": {"damaged": 1, "damage": 0.48484848484848486}, "model": "mrcl/el8"},
-		{ "predicate": {"damaged": 1, "damage": 0.49242424242424243}, "model": "mrcl/nothingyet"},
+		{ "predicate": {"damaged": 1, "damage": 0.49242424242424243}, "model": "mrcl/blue32"},
 		{ "predicate": {"damaged": 1, "damage": 0.5075757575757576}, "model": "mrcl/nothingyet"},
 		{ "predicate": {"damaged": 1, "damage": 0.5151515151515151}, "model": "mrcl/nothingyet"},
 		{ "predicate": {"damaged": 1, "damage": 0.5227272727272727}, "model": "mrcl/nothingyet"},
@@ -134,6 +134,6 @@
 		{ "predicate": {"damaged": 1, "damage": 0.9696969696969697}, "model": "mrcl/megatank"},
 		{ "predicate": {"damaged": 1, "damage": 0.9772727272727273}, "model": "mrcl/blok"},
 		{ "predicate": {"damaged": 1, "damage": 0.9848484848484849}, "model": "mrcl/franz"},
-		{ "predicate": {"damaged": 1, "damage": 0.9924242424242424}, "model": "mrcl/scanners"}
+		{ "predicate": {"damaged": 1, "damage": 0.9924242424242424}, "model": "mrcl/blue32"}
 	]
 }
