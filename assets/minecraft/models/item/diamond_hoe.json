@@ -86,7 +86,7 @@
 		{ "predicate": { "damaged": 1, "damage": 0.050576184379001 }, "model": "mrcl/cl21" },
 		{ "predicate": { "damaged": 1, "damage": 0.051216389244558 }, "model": "mrcl/clpanel" },
 		{ "predicate": { "damaged": 1, "damage": 0.051856594110115 }, "model": "mrcl/clpanelback" },
-		{ "predicate": { "damaged": 1, "damage": 0.052496798975672 }, "model": "mrcl/model82" },
+		{ "predicate": { "damaged": 1, "damage": 0.052496798975672 }, "model": "mrcl/transporter" },
 		{ "predicate": { "damaged": 1, "damage": 0.053137003841229 }, "model": "mrcl/model83" },
 		{ "predicate": { "damaged": 1, "damage": 0.053777208706786 }, "model": "mrcl/model84" },
 		{ "predicate": { "damaged": 1, "damage": 0.054417413572343 }, "model": "mrcl/model85" },
