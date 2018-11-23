@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/glazed_terracotta_red",
-		"1": "blocks/stone",
-		"2": "blocks/hardened_clay_stained_yellow",
-		"3": "blocks/debug",
-		"4": "blocks/hardened_clay_stained_black",
-		"particle": "blocks/glazed_terracotta_red"
+		"0": "block/red_glazed_terracotta",
+		"1": "block/stone",
+		"2": "block/yellow_terracotta",
+		"3": "block/debug",
+		"4": "block/black_terracotta",
+		"particle": "block/red_glazed_terracotta"
 	},
 	"elements": [
 		{

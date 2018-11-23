@@ -1,10 +1,10 @@
 {
 	"textures": {
-		"0": "blocks/hardened_clay_stained_lime",
-		"4": "blocks/hardened_clay_stained_green",
+		"0": "block/lime_terracotta",
+		"4": "block/green_terracotta",
 		"10": "mrcl/wall",
-		"12": "blocks/gold_block",
-		"particle": "blocks/hardened_clay_stained_lime"
+		"12": "block/gold_block",
+		"particle": "block/lime_terracotta"
 	},
 	"elements": [
 		{

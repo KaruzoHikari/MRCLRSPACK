@@ -1,19 +1,19 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/concrete_silver",
+		"0": "block/light_gray_concrete",
 		"1": "mrcl/ligherblack",
-		"2": "blocks/coal_block",
-		"3": "blocks/redstone_block",
-		"4": "blocks/debug",
-		"5": "blocks/concrete_red",
+		"2": "block/coal_block",
+		"3": "block/redstone_block",
+		"4": "block/debug",
+		"5": "block/red_concrete",
 		"6": "mrcl/darksilver",
-		"7": "blocks/bedrock",
-		"8": "blocks/sand",
-		"9": "blocks/concrete_yellow",
-		"10": "blocks/concrete_orange",
-		"11": "blocks/glazed_terracotta_cyan",
-		"particle": "blocks/concrete_silver"
+		"7": "block/bedrock",
+		"8": "block/sand",
+		"9": "block/yellow_concrete",
+		"10": "block/orange_concrete",
+		"11": "block/cyan_glazed_terracotta",
+		"particle": "block/light_gray_concrete"
 	},
 	"elements": [
 		{

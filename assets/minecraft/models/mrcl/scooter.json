@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/coal_block",
-		"1": "blocks/concrete_powder_silver",
-		"2": "blocks/hardened_clay_stained_cyan",
-		"3": "blocks/anvil_base",
-		"particle": "blocks/coal_block"
+		"0": "block/coal_block",
+		"1": "block/light_gray_concrete_powder",
+		"2": "block/cyan_terracotta",
+		"3": "block/anvil",
+		"particle": "block/coal_block"
 	},
 	"elements": [
 		{

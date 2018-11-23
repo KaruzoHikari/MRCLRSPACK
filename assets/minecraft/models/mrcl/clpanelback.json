@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "mrcl/elevatorarrows",
-		"7": "blocks/coal_block",
+		"7": "block/coal_block",
 		"particle": "mrcl/elevatorarrows"
 	},
 	"elements": [

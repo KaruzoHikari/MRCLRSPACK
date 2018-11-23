@@ -1,9 +1,9 @@
 {
 	"textures": {
-		"0": "blocks/glazed_terracotta_yellow",
+		"0": "block/yellow_glazed_terracotta",
 		"2": "mrcl/torn",
-		"12": "blocks/gold_block",
-		"particle": "blocks/glazed_terracotta_yellow"
+		"12": "block/gold_block",
+		"particle": "block/yellow_glazed_terracotta"
 	},
 	"elements": [
 		{

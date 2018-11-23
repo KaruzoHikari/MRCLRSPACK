@@ -28,5 +28,7 @@
 "alarm": {"sounds": [{"name":"mrcl/alarm","stream":false}]},
 "elevatording": {"sounds": [{"name":"mrcl/elevatording","stream":false}]},
 "elevatordoor": {"sounds": [{"name":"mrcl/elevatordoor","stream":false}]},
+"fansopen": {"sounds": [{"name":"mrcl/fansopen","stream":false}]},
+"fansclosed": {"sounds": [{"name":"mrcl/fansclosed","stream":false}]},
 "gateanimation": {"sounds": [{"name":"mrcl/gateanimation","stream":false}]}
 }
