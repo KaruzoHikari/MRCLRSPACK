@@ -2,6 +2,16 @@
 "////SECTION TITLE": "ITEMS////",
 "item.minecraft.bow": "Claws",
 
+"////SECTION TITLE": "LYOKO////",
+"monster.blok": "Blok",
+
+"frontier.warning1": "[ERROR: Searching Data...]",
+"frontier.warning2": "[DNA Corrupted...]",
+"frontier.warning3": "[Erasing Data In Progress...]",
+"frontier.dead1": "YOU DIED!",
+"frontier.dead2": "Better luck next time!",
+"frontier.dead3": "Here's a another chance... Don't die this time.",
+
 "////SECTION TITLE": "DIARY////",
 "book.diary1.page1": "Nathan Pineau - 18th April 1993.%1$sYesterday was the 17th anniversary of the Factory's closing date. A few weeks ago Thomas told me that the bricks that used to block the entrance have been removed, so now we can enter the Factory. I thought",
 "book.diary1.page2": "that walking around the rooms for a bit would be great to remember the old times, so I decided to go there and take a look around.%1$sI entered the Factory: it didn't smell like death and decay anymore. Even though Renault invested",

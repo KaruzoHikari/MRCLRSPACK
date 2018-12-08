@@ -2,15 +2,17 @@
 "////SECTION TITLE": "ITEMS////",
 "item.minecraft.bow": "Artigli",
 
-"////SECTION TITLE": "FRONTIER////",
-"[ERROR: Searching Data...]": "[ERRORE: Ricerca dati in corso...]",
-"[DNA Corrupted...]": "[DNA corrotto...]",
-"[Erasing Data In Progress...]": "[Cancellazione dati in corso...]",
-"YOU DIED!": "SEI MORTO!",
-"Better luck next time!": "Buona fortuna per la prossima volta!",
-"Here's a another chance... Don't die this time.": "Ecco a te un'altra possibilità... Non morire questa volta.",
+"////SECTION TITLE": "LYOKO////",
+"monster.blok": "Block",
 
-"////SECTION TITLE": "": "////",
+"frontier.warning1": "[ERRORE: Ricerca dati in corso...]",
+"frontier.warning2": "[DNA corrotto...]",
+"frontier.warning3": "[Cancellazione dati in corso...]",
+"frontier.dead1": "SEI MORTO!",
+"frontier.dead2": "Buona fortuna per la prossima volta!",
+"frontier.dead3": "Ecco a te un'altra possibilità... Non morire questa volta.",
+
+"////SECTION TITLE": "ADVANCEMENTS////",
 "MRCL - Earth": "MRCL - Terra",
 "Hey Belpois! Welcome to Kadic.": "Hey, Belpois! Benvenuto al collegio Kadic.",
 "Elementary, my dear Watson": "Elementare, mio caro Watson",
@@ -59,17 +61,5 @@
 "It's the Punic Wars again": "Sono di nuovo le guerre puniche",
 "Be in the server when the Doomsday event starts.": "Sii online nel server all'inaugurazione dell'evento \"Giorno del destino\".",
 "Who's not Aelita these days": "Chi non è Aelita in questi giorni",
-"Beat the Doomsday event.": "Supera l'evento \"Giorno del destino\".",
-
-"////SECTION TITLE": "DIARY////",
-"book.diary1.page1": "Nathan Pineau - 18th April 1993.%1$sYesterday was the 17th anniversary of the Factory's closing date. A few weeks ago Thomas told me that the bricks that used to block the entrance have been removed, so now we can enter the Factory. I thought",
-"book.diary1.page2": "that walking around the rooms for a bit would be great to remember the old times, so I decided to go there and take a look around.%1$sI entered the Factory: it didn't smell like death and decay anymore. Even though Renault invested",
-"book.diary1.page3": "a lot to build the Factory, they weren't concerned with safety, and didn't install almost any air vents. Because of this, in those days it was really hard to breathe in the rooms.%1$sIn the 17 years that have passed,",
-"book.diary1.page4": "the main stairs had rusted away, but some ropes hung from the ceiling, so I used them to reach the floor.%1$sOnce I was there, I thought, \"what now?\". Then I remembered that I still had my locker key in my keychain, so I decided to go to take a look.",
-"book.diary1.page5": "I arrived there. And nothing. There was nothing inside. To be honest, I don't know what I was expecting to find. I was really disappointed and, as I left the room, I took notice that it was colder in the main hall than in the room. \"Weird\" - I thought.",
-"book.diary1.page6": "I put my hand against a pipe that used to contain hot water. It was blazing hot. Why would the boilers be on? That was something worth to check.%1$sI could go through the other tunnel but I preferred to take the stairs and, in my way,",
-"book.diary1.page7": "I found some graffitis someone had made. I guess that this is usual when young people find abandoned places.%1$sWhen I arrived at the boiler room, I indeed found the boiler working. I didn't see anyone around though. I was about to leave,",
-"book.diary1.page8": "but then I looked up and saw light coming from a small hole in the wall, a hole that wasn't there before.%1$sI could have left, but I thought that nobody else was gonna care about the Factory anyway, so I decided to take a look. But now, I regret doing that.",
-"book.diary1.page9": "Because there was a room in there. And, in that room, there was a man in a lab coat, with gray hair and glasses, welding some electrical parts together into a big and complex looking structure.",
-"book.diary1.page10": "Enough Factory for me."
+"Beat the Doomsday event.": "Supera l'evento \"Giorno del destino\"."
 }
