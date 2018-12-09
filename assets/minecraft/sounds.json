@@ -30,5 +30,9 @@
 "elevatordoor": {"sounds": [{"name":"mrcl/elevatordoor","stream":false}]},
 "fansopen": {"sounds": [{"name":"mrcl/fansopen","stream":false}]},
 "fansclosed": {"sounds": [{"name":"mrcl/fansclosed","stream":false}]},
+"efcreate": {"sounds": [{"name":"mrcl/efcreate","stream":false}]},
+"efthrow": {"sounds": [{"name":"mrcl/efthrow","stream":false}]},
+"efhit": {"sounds": [{"name":"mrcl/efhit","stream":false}]},
+"efdelete": {"sounds": [{"name":"mrcl/efdelete","stream":false}]},
 "gateanimation": {"sounds": [{"name":"mrcl/gateanimation","stream":false}]}
 }
