@@ -2,13 +2,15 @@
 "////SECTION TITLE": "ITEMS////",
 "item.minecraft.bow": "Garras",
 
-"////SECTION TITLE": "FRONTIER////",
-"[ERROR: Searching Data...]": "[ERROR: Buscando datos...]",
-"[DNA Corrupted...]": "[ADN corrompido...]",
-"[Erasing Data In Progress...]": "[Borrado de datos en proceso...]",
-"YOU DIED!": "¡MORISTE!",
-"Better luck next time!": "¡Más suerte la próxima vez!",
-"Here's a another chance... Don't die this time.": "Aquí tienes otra oportunidad... No mueras esta vez.",
+"////SECTION TITLE": "LYOKO////",
+"monster.blok": "Bloque",
+
+"frontier.warning1": "[ERROR: Buscando datos...]",
+"frontier.warning2": "[ADN corrompido...]",
+"frontier.warning3": "[Borrado de datos en proceso...]",
+"frontier.dead1": "¡MORISTE!",
+"frontier.dead2": "¡Más suerte la próxima vez!",
+"frontier.dead3": "Aquí tienes otra oportunidad... No mueras esta vez.",
 
 "////SECTION TITLE": "ADVANCEMENTS////",
 "MRCL - Earth": "MRCL - Tierra",
