@@ -12,6 +12,36 @@
 "frontier.dead2": "Buona fortuna per la prossima volta!",
 "frontier.dead3": "Ecco a te un'altra possibilità... Non morire questa volta.",
 
+"////SECTION TITLE": "PRC OUTPUT////",
+"Superscan": "Superscanner",
+"Multiscan": "Multiscanner",
+"Ice": "Ghiaccio",
+"Forest": "Foresta",
+"Mountain": "Montagna",
+"Desert": "Deserto",
+"Carthage": "Settore 5",
+"Tower": "Torre",
+"Total active towers": "Totale delle torri attive",
+"Active towers": "Torri attive",
+"sector with no activity hidden": "settore senza alcun tipo di attività",
+"sectors with no activity hidden": "settori senza alcun tipo di attività",
+"There are no active towers": "Non ci sono torri attive",
+
+"ANGEL": "ANGELO",
+"GEISHA": "GEISHA",
+"SAMURAI": "SAMURAI",
+"FELINE": "FELINO",
+"WARRIOR": "GUERRIERO",
+"Your class has been changed to": "La tua classe è stata cambiata a",
+"Their class has been changed to": "La loro classe è stata cambiata a",
+"Your class has not been changed to": "La tua classe non è stata cambiata a",
+"Their class has not been changed to": "La loro classe non è stata cambiata a",
+"it's not available": "non è disponibile",
+
+"////SECTION TITLE": "MENUS////",
+"soundCategory.music": "Musica di Minecraft",
+"soundCategory.voice": "§b§lMusica di MRCL",
+
 "////SECTION TITLE": "ADVANCEMENTS////",
 "MRCL - Earth": "MRCL - Terra",
 "Hey Belpois! Welcome to Kadic.": "Hey, Belpois! Benvenuto al collegio Kadic.",
@@ -57,9 +87,13 @@
 "Use the terminal for the first time.": "Utilizza il terminale per la prima volta.",
 
 "MRCL - Events": "MRCL - Eventi",
-"Find the museum.": "Trova il museo.",
+"Nice timing.": "Giusto in tempo.",
 "It's the Punic Wars again": "Sono di nuovo le guerre puniche",
 "Be in the server when the Doomsday event starts.": "Sii online nel server all'inaugurazione dell'evento \"Giorno del destino\".",
 "Who's not Aelita these days": "Chi non è Aelita in questi giorni",
-"Beat the Doomsday event.": "Supera l'evento \"Giorno del destino\"."
+"Beat the Doomsday event.": "Supera l'evento \"Giorno del destino\".",
+
+"A World Without Danger.": "Un mondo senza pericolo.",
+"What a Boring Place": "Un posto noioso",
+"Find the museum.": "Trova il museo."
 }

@@ -38,6 +38,10 @@
 "Their class has not been changed to": "Sa classe n'a pas était changé en",
 "it's not available": "ce n'est pas disponible",
 
+"////SECTION TITLE": "MENUS////",
+"soundCategory.music": "Musique d'Minecraft",
+"soundCategory.voice": "§b§lMusique d'MRCL",
+
 "////SECTION TITLE": "ADVANCEMENTS////",
 "MRCL - Earth": "MRCL - Terre",
 "Hey Belpois! Welcome to Kadic.": "Hey, Belpois! Bienvenue à Kadic.",
@@ -80,9 +84,13 @@
 "Sorcerer's Apprentice": "Apprenti sorcier",
 "Use the terminal for the first time.": "Utiliser l'interface pour la première fois",
 
-"Find the museum.": "Trouver le musée",
+"Nice timing.": "Juste à temps.",
 "It's the Punic Wars again": "C'est la Guerre Punique à nouveau",
 "Be in the server when the Doomsday event starts.": "Être sur le serveur quand l'event 'Jugement dernier' commence",
 "Who's not Aelita these days": "Qui n'est pas Aelita de nos jours",
-"Beat the Doomsday event.": "Vaincre l'event 'Jugement dernier'"
+"Beat the Doomsday event.": "Vaincre l'event 'Jugement dernier'",
+
+"A World Without Danger.": "Un Monde Sans Danger.",
+"What a Boring Place": "Un endroit ennuyeux",
+"Find the museum.": "Trouver le musée."
 }

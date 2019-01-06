@@ -39,6 +39,10 @@
 "Their class has not been changed to": "Su clase no ha sido cambiada a",
 "it's not available": "no está disponible",
 
+"////SECTION TITLE": "MENUS////",
+"soundCategory.music": "Música de Minecraft",
+"soundCategory.voice": "§b§lMúsica de MRCL",
+
 "////SECTION TITLE": "ADVANCEMENTS////",
 "MRCL - Earth": "MRCL - Tierra",
 "Hey Belpois! Welcome to Kadic.": "¡Hola, Belpois! Bienvenido a Kadic.",
@@ -84,11 +88,15 @@
 "Use the terminal for the first time.": "Utiliza la terminal por primera vez.",
 
 "MRCL - Events": "MRCL - Eventos",
-"Find the museum.": "Encuentra el museo.",
+"Nice timing.": "Justo a tiempo.",
 "It's the Punic Wars again": "Vuelven las Guerras Púnicas",
 "Be in the server when the Doomsday event starts.": "Estate en el servidor cuando el evento de Doomsday comience.",
 "Who's not Aelita these days": "Quién no es Aelita estos días",
 "Beat the Doomsday event.": "Supera el evento de Doomsday.",
+
+"A World Without Danger.": "Un Mundo Sin Peligro.",
+"What a Boring Place": "Qué Lugar más Aburrido",
+"Find the museum.": "Encuentra el museo.",
 
 "////SECTION TITLE": "DIARY////",
 "book.diary1.page1": "Nathan Pineau – 18 de abril de 1993.%1$sAyer hizo 17 años desde que la Fábrica cerró. Hace unas semanas Thomas me dijo que los ladrillos que solían bloquear la entrada han sido quitados, así que ahora podemos volver a entrar. Pensé que caminar",

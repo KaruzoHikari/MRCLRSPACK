@@ -38,6 +38,10 @@
 "Their class has not been changed to": "Heidän luokkaansa ei ole vaihdettu",
 "it's not available": "ei ole saatavilla",
 
+"////SECTION TITLE": "MENUS////",
+"soundCategory.music": "Minecraft-Musiikki",
+"soundCategory.voice": "§b§lMRCL-Musiikki",
+
 "////SECTION TITLE": "ADVANCEMENTS////",
 "MRCL - Earth": "MRCL - Maa",
 "Hey Belpois! Welcome to Kadic.": "Hei Belpois! Tervetuloa Kadiciin!",
@@ -83,9 +87,13 @@
 "Use the terminal for the first time.": "Käytä terminaalia ensimmäistä kertaa.",
 
 "MRCL - Events": "MRCL - Tapahtumat",
-"Find the museum.": "Löydä museo.",
+"Nice timing.": "Hyvä ajoitus.",
 "It's the Punic Wars again": "Aivan kuten Puunilaissodissa",
 "Be in the server when the Doomsday event starts.": "Ole palvelimella kun Tuomiopäivä alkaa.",
 "Who's not Aelita these days": "Kuka ei ole Aelita näinä päivinä",
-"Beat the Doomsday event.": "Päihitä Tuomiopäivä."
+"Beat the Doomsday event.": "Päihitä Tuomiopäivä.",
+
+"A World Without Danger.": "Maailma vailla vaaraa",
+"What a Boring Place": "Onpas tylsä paikka",
+"Find the museum.": "Löydä Museo"
 }
