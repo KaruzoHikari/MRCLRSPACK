@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "mrcl/cafeteriatop" },
+        "facing=west": { "model": "mrcl/cafeteriatopdiv"},
+        "facing=north": { "model": "mrcl/cafeteriabottom"},
+        "facing=east": { "model": "mrcl/cafeteriawall"}
+    }
+}
