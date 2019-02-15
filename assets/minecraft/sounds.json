@@ -34,5 +34,6 @@
 "efthrow": {"sounds": [{"name":"mrcl/efthrow","stream":false}]},
 "efhit": {"sounds": [{"name":"mrcl/efhit","stream":false}]},
 "efdelete": {"sounds": [{"name":"mrcl/efdelete","stream":false}]},
+"sewersentrance": {"sounds": [{"name":"mrcl/sewersentrance","stream":false}]},
 "gateanimation": {"sounds": [{"name":"mrcl/gateanimation","stream":false}]}
 }
