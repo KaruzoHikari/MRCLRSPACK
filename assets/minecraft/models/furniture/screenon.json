@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "mrcl/screenon",
+		"particle": "mrcl/screenon"
+	},
+	"elements": [
+		{
+			"from": [0.8874, 3.9844, 11.88],
+			"to": [15.1126, 13.7788, 12.0628],
+			"faces": {
+				"north": {"uv": [0, 2.027, 16, 13.921], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}
