@@ -35,5 +35,9 @@
 "efhit": {"sounds": [{"name":"mrcl/efhit","stream":false}]},
 "efdelete": {"sounds": [{"name":"mrcl/efdelete","stream":false}]},
 "sewersentrance": {"sounds": [{"name":"mrcl/sewersentrance","stream":false}]},
+"superscansearch": {"sounds": [{"name":"mrcl/superscansearch","stream":false}]},
+"superscanfound": {"sounds": [{"name":"mrcl/superscanfound","stream":false}]},
+"sec5door": {"sounds": [{"name":"mrcl/sec5door","stream":false}]},
+"sec5key": {"sounds": [{"name":"mrcl/sec5key","stream":false}]},
 "gateanimation": {"sounds": [{"name":"mrcl/gateanimation","stream":false}]}
 }

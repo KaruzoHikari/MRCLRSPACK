@@ -1,20 +1,20 @@
 {
     "variants": {
-        "facing=south,in_wall=false,open=false": { "model": "furniture/computer" },
-        "facing=west,in_wall=false,open=false":  { "model": "furniture/computer", "y": 90 },
-        "facing=north,in_wall=false,open=false": { "model": "furniture/computer", "y": 180 },
-        "facing=east,in_wall=false,open=false":  { "model": "furniture/computer", "y": 270 },
-        "facing=south,in_wall=false,open=true": { "model": "furniture/computer" },
-        "facing=west,in_wall=false,open=true":  { "model": "furniture/computer", "y": 90 },
-        "facing=north,in_wall=false,open=true": { "model": "furniture/computer", "y": 180 },
-        "facing=east,in_wall=false,open=true":  { "model": "furniture/computer", "y": 270 },
-        "facing=south,in_wall=true,open=false": { "model": "furniture/computernokeyboard", "y": 90 },
-        "facing=west,in_wall=true,open=false":  { "model": "furniture/computernokeyboard", "y": 180 },
-        "facing=north,in_wall=true,open=false": { "model": "furniture/computernokeyboard", "y": 270 },
-        "facing=east,in_wall=true,open=false":  { "model": "furniture/computernokeyboard", "y": 0 },
-        "facing=south,in_wall=true,open=true": { "model": "furniture/computernokeyboard", "y": 90 },
-        "facing=west,in_wall=true,open=true":  { "model": "furniture/computernokeyboard", "y": 180 },
-        "facing=north,in_wall=true,open=true": { "model": "furniture/computernokeyboard", "y": 270 },
-        "facing=east,in_wall=true,open=true":  { "model": "furniture/computernokeyboard", "y": 0 }
+        "facing=south,in_wall=false,open=false": { "model": "furniture/blindfull" },
+        "facing=west,in_wall=false,open=false":  { "model": "furniture/blindfull", "y": 90 },
+        "facing=north,in_wall=false,open=false": { "model": "furniture/blindfull", "y": 180 },
+        "facing=east,in_wall=false,open=false":  { "model": "furniture/blindfull", "y": 270 },
+        "facing=south,in_wall=false,open=true": { "model": "furniture/blindfull" },
+        "facing=west,in_wall=false,open=true":  { "model": "furniture/blindfull", "y": 90 },
+        "facing=north,in_wall=false,open=true": { "model": "furniture/blindfull", "y": 180 },
+        "facing=east,in_wall=false,open=true":  { "model": "furniture/blindfull", "y": 270 },
+        "facing=south,in_wall=true,open=false": { "model": "furniture/blindfull", "y": 90 },
+        "facing=west,in_wall=true,open=false":  { "model": "furniture/blindfull", "y": 180 },
+        "facing=north,in_wall=true,open=false": { "model": "furniture/blindfull", "y": 270 },
+        "facing=east,in_wall=true,open=false":  { "model": "furniture/blindfull", "y": 0 },
+        "facing=south,in_wall=true,open=true": { "model": "furniture/blindfull", "y": 90 },
+        "facing=west,in_wall=true,open=true":  { "model": "furniture/blindfull", "y": 180 },
+        "facing=north,in_wall=true,open=true": { "model": "furniture/blindfull", "y": 270 },
+        "facing=east,in_wall=true,open=true":  { "model": "furniture/blindfull", "y": 0 }
     }
 }

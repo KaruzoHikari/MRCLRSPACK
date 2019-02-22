@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "mrcl/sctoweron",
+		"2": "block/clay"
+	},
+	"elements": [
+		{
+			"from": [0.8874, -11.0156, 27.8472],
+			"to": [15.1126, -1.2212, 27.93],
+			"faces": {
+				"north": {"uv": [0, 3.34, 15.962, 12.633], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#2"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

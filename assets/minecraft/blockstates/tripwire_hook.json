@@ -1,20 +1,20 @@
 {
     "variants": {
-        "attached=false,facing=north,powered=false": { "model": "furniture/radiator" },
-        "attached=false,facing=south,powered=false": { "model": "furniture/radiator", "y": 180 },
-        "attached=false,facing=west,powered=false": { "model": "furniture/radiator", "y": 270 },
-        "attached=false,facing=east,powered=false": { "model": "furniture/radiator", "y": 90 },
-        "attached=true,facing=north,powered=false": { "model": "block/tripwire_hook_attached" },
-        "attached=true,facing=south,powered=false": { "model": "block/tripwire_hook_attached", "y": 180 },
-        "attached=true,facing=west,powered=false": { "model": "block/tripwire_hook_attached", "y": 270 },
-        "attached=true,facing=east,powered=false": { "model": "block/tripwire_hook_attached", "y": 90 },
-        "attached=false,facing=north,powered=true": { "model": "block/tripwire_hook_on" },
-        "attached=false,facing=south,powered=true": { "model": "block/tripwire_hook_on", "y": 180 },
-        "attached=false,facing=west,powered=true": { "model": "block/tripwire_hook_on", "y": 270 },
-        "attached=false,facing=east,powered=true": { "model": "block/tripwire_hook_on", "y": 90 },
-        "attached=true,facing=north,powered=true": { "model": "block/tripwire_hook_attached_on" },
-        "attached=true,facing=south,powered=true": { "model": "block/tripwire_hook_attached_on", "y": 180 },
-        "attached=true,facing=west,powered=true": { "model": "block/tripwire_hook_attached_on", "y": 270 },
-        "attached=true,facing=east,powered=true": { "model": "block/tripwire_hook_attached_on", "y": 90 }
+        "attached=false,facing=north,powered=false": { "model": "furniture/blindfullwhite", "y": 180 },
+        "attached=false,facing=south,powered=false": { "model": "furniture/blindfullwhite", "y": 0 },
+        "attached=false,facing=west,powered=false": { "model": "furniture/blindfullwhite", "y": 90 },
+        "attached=false,facing=east,powered=false": { "model": "furniture/blindfullwhite", "y": 270 },
+        "attached=true,facing=north,powered=false": { "model": "furniture/radiator", "y": 0 },
+        "attached=true,facing=south,powered=false": { "model": "furniture/radiator", "y": 180 },
+        "attached=true,facing=west,powered=false": { "model": "furniture/radiator", "y": 270 },
+        "attached=true,facing=east,powered=false": { "model": "furniture/radiator", "y": 90 },
+        "attached=false,facing=north,powered=true": { "model": "furniture/blindhalfwhite", "y": 180 },
+        "attached=false,facing=south,powered=true": { "model": "furniture/blindhalfwhite", "y": 0 },
+        "attached=false,facing=west,powered=true": { "model": "furniture/blindhalfwhite", "y": 90 },
+        "attached=false,facing=east,powered=true": { "model": "furniture/blindhalfwhite", "y": 270 },
+        "attached=true,facing=north,powered=true": { "model": "furniture/blindclosedwhite", "y": 180 },
+        "attached=true,facing=south,powered=true": { "model": "furniture/blindclosedwhite", "y": 0 },
+        "attached=true,facing=west,powered=true": { "model": "furniture/blindclosedwhite", "y": 90 },
+        "attached=true,facing=east,powered=true": { "model": "furniture/blindhalfwhite", "y": 270 }
     }
 }
