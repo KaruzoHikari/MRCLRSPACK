@@ -1,0 +1,17 @@
+{
+    "multipart": [
+        {   "apply": { "model": "furniture/nothing" }},
+        {   "when": { "north": "true" },
+            "apply": { "model": "furniture/light", "uvlock": false }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "furniture/light", "y": 90, "uvlock": false }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "furniture/light", "y": 0, "uvlock": false }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "furniture/light", "y": 90, "uvlock": false }
+        }
+    ]
+}
