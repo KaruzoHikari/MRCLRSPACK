@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "mrcl/sector5",
+		"particle": "mrcl/sector5"
+	},
+	"elements": [
+		{
+			"from": [-4.2016, -12.2016, -0.0516],
+			"to": [20.2016, 25.9284, 0.9736],
+			"faces": {
+				"north": {"uv": [3.107, 0.016, 12.883, 15.991], "texture": "#0"},
+				"east": {"uv": [3.107, 0.016, 12.883, 15.991], "texture": "#0"},
+				"south": {"uv": [3.107, 0.016, 12.883, 15.991], "texture": "#0"},
+				"west": {"uv": [3.107, 0.016, 12.883, 15.991], "texture": "#0"},
+				"up": {"uv": [3.107, 0.016, 12.883, 15.991], "texture": "#0"},
+				"down": {"uv": [3.107, 0.016, 12.883, 15.991], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "xana'seye",
+			"children": [
+				{
+					"name": "Cubo",
+					"children": []
+				}
+			]
+		},
+		{
+			"name": "outer",
+			"children": []
+		},
+		{
+			"name": "outer2",
+			"children": []
+		},
+		{
+			"name": "outer3",
+			"children": []
+		},
+		{
+			"name": "middle",
+			"children": []
+		},
+		{
+			"name": "center",
+			"children": []
+		}, 0]
+}
