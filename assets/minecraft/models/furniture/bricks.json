@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "mrcl/sandstonebricks"
+		"3": "mrcl/sandstonebricks",
+		"particle": "mrcl/sandstonebricks"
 	},
 	"elements": [
 		{
