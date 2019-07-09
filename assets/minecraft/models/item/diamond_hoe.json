@@ -101,7 +101,7 @@
 		{ "predicate": { "damaged": 1, "damage": 0.060179257362356 }, "model": "mrcl/s5key3" },
 		{ "predicate": { "damaged": 1, "damage": 0.060819462227913 }, "model": "mrcl/s5key4" },
 		{ "predicate": { "damaged": 1, "damage": 0.06145966709347 }, "model": "mrcl/s5key" },
-		{ "predicate": { "damaged": 1, "damage": 0.062099871959027 }, "model": "mrcl/model97" },
+		{ "predicate": { "damaged": 1, "damage": 0.062099871959027 }, "model": "furniture/parksewersentrance" },
 		{ "predicate": { "damaged": 1, "damage": 0.062740076824584 }, "model": "mrcl/model98" },
 		{ "predicate": { "damaged": 1, "damage": 0.063380281690141 }, "model": "mrcl/model99" },
 		{ "predicate": { "damaged": 1, "damage": 0.064020486555698 }, "model": "mrcl/model100" },
