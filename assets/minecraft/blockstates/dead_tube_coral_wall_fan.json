@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": { "model": "furniture/mirror", "y": 270 },
+        "facing=south": { "model": "furniture/mirror", "y": 0 },
+        "facing=west": { "model": "furniture/mirror", "y": 90 },
+        "facing=north": { "model": "furniture/mirror", "y": 180 }
+    }
+}
