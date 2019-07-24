@@ -39,5 +39,6 @@
 "superscanfound": {"sounds": [{"name":"mrcl/superscanfound","stream":false}]},
 "sec5door": {"sounds": [{"name":"mrcl/sec5door","stream":false}]},
 "sec5key": {"sounds": [{"name":"mrcl/sec5key","stream":false}]},
+"vendingmachine": {"sounds": [{"name":"mrcl/vendingmachine","stream":false}]},
 "gateanimation": {"sounds": [{"name":"mrcl/gateanimation","stream":false}]}
 }
