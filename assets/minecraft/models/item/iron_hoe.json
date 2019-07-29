@@ -7,7 +7,7 @@
 		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/iron_hoe"},
 		{ "predicate": {"damaged": 1, "damage": 0.00398406374501992}, "model": "emotion/none"},
 		{ "predicate": {"damaged": 1, "damage": 0.00796812749003984}, "model": "emotion/happy"},
-		{ "predicate": {"damaged": 1, "damage": 0.01195219123505976}, "model": "furniture/blindhalf"},
+		{ "predicate": {"damaged": 1, "damage": 0.01195219123505976}, "model": "emotion/angry"},
 		{ "predicate": {"damaged": 1, "damage": 0.01593625498007968}, "model": "furniture/blindfull"},
 		{ "predicate": {"damaged": 1, "damage": 0.0199203187250996}, "model": "furniture/iron_hoe4"},
 		{ "predicate": {"damaged": 1, "damage": 0.02390438247011952}, "model": "furniture/iron_hoe5"},
