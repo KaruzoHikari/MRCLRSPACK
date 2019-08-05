@@ -56,7 +56,7 @@
 "advancements.kadic.franzdaughter.description": "Find the photo of Aelita in the school files.",
 "advancements.kadic.areyougoingtofinishthat.name": "Are you going to finish that?",
 "advancements.kadic.areyougoingtofinishthat.description": "Eat breakfast in the Cafeteria.",
-"advancements.kadic.gravyitneedsmoregravy.name": "Gravy… It needs more gravy",
+"advancements.kadic.gravyitneedsmoregravy.name": "Gravy... It needs more gravy",
 "advancements.kadic.gravyitneedsmoregravy.description": "Eat lunch in the Cafeteria.",
 "advancements.kadic.lambandpotatoesfordessert.name": "Lamb and potatoes for dessert",
 "advancements.kadic.lambandpotatoesfordessert.description": "Eat dinner in the Cafeteria.",
@@ -66,7 +66,7 @@
 "advancements.kadic.rip.description": "Die in Kadic.",
 "advancements.kadic.thesecretfiles.name": "The secret files",
 "advancements.kadic.thesecretfiles.description": "Find the 3 hidden books in the administrative building.",
-"advancements.kadic.isanybodyouthere.name": "Is anyone out there?",
+"advancements.kadic.isanyoneoutthere.name": "Is anyone out there?",
 
 "advancements.factory.root.name": "Factory",
 "advancements.factory.root.description": "Just an abandoned factory.",
@@ -78,6 +78,8 @@
 "advancements.factory.greenpeaceagent.description": "Turn off the power in the factory.",
 "advancements.factory.renaultfactory.name": "Renault's Factory",
 "advancements.factory.renaultfactory.description": "Find Nathan Pineau's diary.",
+"advancements.factory.rats.name": "Oh rats!",
+"advancements.factory.rats.description": "Find the second entrance to the factory.",
 
 "advancements.lyoko.root.name": "Lyoko ",
 "advancements.lyoko.root.description": "Transfer, scanner, virtualization!",
@@ -107,14 +109,14 @@
 "advancements.sector5.whywouldyou.description": "Try to destroy the core.",
 
 "advancements.events.root.name": "Events",
-"advancements.events.root.description": "A world without danger.",
+"advancements.events.root.description": "Nice timing.",
 "advancements.events.doomsday_start.name": "It's the Punic Wars again",
 "advancements.events.doomsday_start.description": "Be in the server when the Doomsday event starts.",
 "advancements.events.doomsday_finish.name": "Who's not Aelita these days",
 "advancements.events.doomsday_finish.description": "Beat the Doomsday event.",
 
 "advancements.eastereggs.root.name": "Easter Eggs",
-"advancements.eastereggs.root.description": "Nice timing.",
+"advancements.eastereggs.root.description": "A world without danger.",
 "advancements.eastereggs.museum.name": "What a Boring Place",
 "advancements.eastereggs.museum.description": "Find the museum."
 }
