@@ -4,5 +4,10 @@
 
 "////SECTION TITLE": "MENUS////",
 "soundCategory.music": "Minecraft Music",
-"soundCategory.voice": "§b§lMRCL Music"
+"soundCategory.voice": "§b§lMRCL Music",
+
+"////SECTION TITLE": "ADVANCEMENTS////",
+"advancements.toast.task": "Advancement Complete!",
+"advancements.toast.goal": "§bNew Advancements!",
+"advancements.toast.challenge": "Secret Complete!"
 }
