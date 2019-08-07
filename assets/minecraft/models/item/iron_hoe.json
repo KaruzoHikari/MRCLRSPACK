@@ -15,7 +15,7 @@
 		{ "predicate": {"damaged": 1, "damage": 0.03187250996015936}, "model": "emotion/patrol"},
 		{ "predicate": {"damaged": 1, "damage": 0.03585657370517928}, "model": "emotion/sleep"},
 		{ "predicate": {"damaged": 1, "damage": 0.0398406374501992}, "model": "emotion/talking"},
-		{ "predicate": {"damaged": 1, "damage": 0.043824701195219126}, "model": "furniture/iron_hoe10"},
+		{ "predicate": {"damaged": 1, "damage": 0.043824701195219126}, "model": "emotion/flower"},
 		{ "predicate": {"damaged": 1, "damage": 0.04780876494023904}, "model": "furniture/iron_hoe11"},
 		{ "predicate": {"damaged": 1, "damage": 0.05179282868525896}, "model": "furniture/iron_hoe12"},
 		{ "predicate": {"damaged": 1, "damage": 0.055776892430278883}, "model": "furniture/iron_hoe13"},
