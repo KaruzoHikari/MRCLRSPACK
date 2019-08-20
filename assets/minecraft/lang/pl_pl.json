@@ -36,8 +36,8 @@
 
 "advancements.kadic.root.name": "Kadic",
 "advancements.kadic.root.description": "Hej Belpois! Witaj w Kadic.",
-"advancements.kadic.averysocialguy.name": "Bardzo towarzyski gość.",
-"advancements.kadic.averysocialguy.description": "Użyj PPM na npc żeby wyświetlić wszystkie emotki.",
+"advancements.kadic.weirdplacementbutok.name": "Dziwne miejsce ale OK",
+"advancements.kadic.weirdplacementbutok.description": "Znajdź stary laptop Jeremiego.",
 "advancements.kadic.windowslover.name": "Miłośnik Windows'a",
 "advancements.kadic.windowslover.description": "Znajdz każdy dostępny program komputerowy w Kadic.",
 "advancements.kadic.butwhyisitgray.name": "Ale dlaczego to jest szare?",
@@ -119,3 +119,4 @@
 "advancements.eastereggs.root.description": "Świat bez niebezpieczeństw.",
 "advancements.eastereggs.museum.name": "Co za nudne miejsce",
 "advancements.eastereggs.museum.description": "Znajdź muzeum"
+}
