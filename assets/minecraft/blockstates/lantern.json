@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "hanging=true": { "model": "mrcl/empty"},
+        "hanging=false": { "model": "block/lantern"}
+  }
+}
