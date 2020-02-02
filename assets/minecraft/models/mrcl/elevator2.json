@@ -4,7 +4,7 @@
 		"3": "block/coal_block",
 		"4": "mrcl/wall",
 		"11": "block/oak_planks",
-		"15": "block/oak_log",
+		"15": "mrcl/old_oak_log",
 		"23": "block/cyan_terracotta",
 		"25": "block/brown_terracotta",
 		"1_3": "block/coal_block",

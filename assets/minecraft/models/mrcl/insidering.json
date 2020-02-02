@@ -1,5 +1,5 @@
 {
-	"textures": {"12": "block/gold_block"},
+	"textures": {"12": "mrcl/old_gold_block"},
 	"elements": [
 		{
 			"name": "hexadecagon",

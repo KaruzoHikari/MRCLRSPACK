@@ -3,7 +3,7 @@
 		"0": "block/lime_terracotta",
 		"4": "block/green_terracotta",
 		"10": "mrcl/wall",
-		"12": "block/gold_block",
+		"12": "mrcl/old_gold_block",
 		"particle": "block/lime_terracotta"
 	},
 	"elements": [

@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/gold_block",
+		"0": "mrcl/old_gold_block",
 		"2": "mrcl/wall2",
 		"3": "block/redstone_block",
 		"4": "block/stone",
-		"1_0": "block/gold_block",
-		"particle": "block/gold_block"
+		"1_0": "mrcl/old_gold_block",
+		"particle": "mrcl/old_gold_block"
 	},
 	"elements": [
 		{

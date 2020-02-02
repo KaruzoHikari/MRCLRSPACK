@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"12": "block/gold_block",
+		"12": "mrcl/old_gold_block",
 		"20": "mrcl/wall2"
 	},
 	"elements": [
